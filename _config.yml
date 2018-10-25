@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+description:      "WINNING-PTS|欢迎来到技术文档「角落」侃侃理想、谈谈人生、敲敲代码。"
 url:              https://lion-atom.github.io/tongminjie.github.io/ # 域名
 signoff:          "Lion-Atom" # Your name
 facebook_appid:   #liberxue
@@ -12,22 +12,22 @@ paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          /
+    url:          /tongminjie.github.io/
     external:     false
   - name:         书籍
-    url:          /book
+    url:          /tongminjie.github.io/book
     external:     false
   - name:         旅游
-    url:          /road
+    url:          /tongminjie.github.io/road
     external:     false
   - name:         归档
-    url:          /archives
+    url:          /tongminjie.github.io/archives
     external:     false
   - name:         标签
-    url:          /tags
+    url:          /tongminjie.github.io/tags
     external:     false
   - name:         关于
-    url:          /about
+    url:          /tongminjie.github.io/about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
